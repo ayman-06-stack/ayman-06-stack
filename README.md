@@ -92,7 +92,7 @@ End-to-end AI system for automated vehicle damage assessment in the insurance in
 ---
 
 ### 🏥 Surgical Guardian System — AI-Powered Laparoscopic Assistance
-> *Computer Vision · Medical AI | 2025 – 2026*
+> * MIATHON AI Hackathon | Computer Vision · Medical AI | 2025 – 2026*
 
 Real-time anatomical structure detection with automated surgical alert system — running on standard CPU hardware.
 
@@ -105,7 +105,7 @@ Real-time anatomical structure detection with automated surgical alert system �
 ---
 
 ### 🤟 HandSpeak — Real-time Sign Language Translation
-> *MIATHON AI Hackathon | 2025 – 2026*
+> *Hult Prize Hackathon | 2025 – 2026*
 
 Gesture-to-text translation app with zero latency, distributed as a standalone `.exe` — no installation required.
 
