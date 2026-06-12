@@ -92,7 +92,7 @@ End-to-end AI system for automated vehicle damage assessment in the insurance in
 ---
 
 ### 🏥 Surgical Guardian System — AI-Powered Laparoscopic Assistance
-> * MIATHON AI Hackathon | Computer Vision · Medical AI | 2025 – 2026*
+> *MIATHON AI Hackathon | Computer Vision · Medical AI | 2025 – 2026*
 
 Real-time anatomical structure detection with automated surgical alert system — running on standard CPU hardware.
 
